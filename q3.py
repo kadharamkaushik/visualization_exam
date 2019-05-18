@@ -67,6 +67,6 @@ def q3heatmap(path_d):
     fig.set_size_inches(10, 10)
     plt.show()
     
-q4heatmap(pathd)
-q4heatmap(pathm)
-q4heatmap(pathw)
+q3heatmap(pathd)
+q3heatmap(pathm)
+q3heatmap(pathw)
