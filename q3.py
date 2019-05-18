@@ -27,7 +27,7 @@ def sort_dict(d):
     return sorted_by_value
 
 
-def q4heatmap(path_d):
+def q3heatmap(path_d):
     dict_d={}
     dict_d_temp={}
     
